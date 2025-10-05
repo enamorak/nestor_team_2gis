@@ -3,7 +3,6 @@
 
   ## Запуск кода
 
-  Run `npm i` to install the dependencies.
+  Запустите `npm i` для установки зависимостей.
 
-  Run `npm run dev` to start the development server.
-  
+  Запустите `npm run dev` для запуска сервера разработки.
