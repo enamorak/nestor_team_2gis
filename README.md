@@ -1,9 +1,7 @@
 
-  # 2GIS Tinder App
+  # 2GIS Nestor Team
 
-  This is a code bundle for 2GIS Tinder App. The original project is available at https://www.figma.com/design/QzyCPeoRrkpHmC38WyOLZW/2GIS-Tinder-App.
-
-  ## Running the code
+  ## Запуск кода
 
   Run `npm i` to install the dependencies.
 
